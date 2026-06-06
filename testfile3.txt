@@ -1,0 +1,4 @@
+adding new text via echo command
+line one
+line two
+line three
